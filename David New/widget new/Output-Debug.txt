@@ -1,0 +1,7 @@
+﻿No module named 'wolframalpha'
+Stack trace:
+ >  File "C:\Users\Pratiksha\Desktop\Myproject\David New\widget new\widget_new.py", line 8, in <module> (Current frame)
+ >    import wolframalpha
+Loaded '__main__'
+Loaded 'runpy'
+The program 'python.exe' has exited with code -1 (0xffffffff).
